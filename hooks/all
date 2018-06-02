@@ -1,5 +1,0 @@
-#!/bin/sh
-echo 1 >> /app/hooks/foo
-echo $1 >> /app/hooks/foo
-echo 2 >> /app/hooks/foo
-echo $2 >> /app/hooks/foo
